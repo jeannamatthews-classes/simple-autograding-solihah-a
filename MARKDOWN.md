@@ -8,3 +8,5 @@
   - **Bold** text
   - *Italic* text
   - Links: [GitHub](https://github.com)
+
+Repository created: `CS350`
